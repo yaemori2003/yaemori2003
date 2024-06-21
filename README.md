@@ -1,20 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-# Olá👋, Bem-vindo ao meu perfil do GitHub
+# Hola👋, Bienvenido a mi perfil de GitHub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Marcia+Gabrielle...;Tengo+21+años...;Estudiante+de+Ciencia+de+la+Computación..."/>
 
- <p>- <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
+ <p>- <i>Estudiante de Ciencia de la Computación apasionada por la tecnología y la innovación. Desarrollando habilidades en programación, algoritmos y análisis de datos. Interesada en inteligencia artificial, aprendizaje automático y Ciencia de Datos. Comprometida con el aprendizaje continuo y en busca de oportunidades para aplicar mi conocimiento y contribuir a soluciones tecnológicas innovadoras.</i></p>
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
-## ⚡🙋‍♂️ Sobre mim
+## ⚡🙋‍♂️ Sobre mí
 
 </br>
 
-- 🌱 Estudando Ciência de Dados com Python
-- 😄 Pronouns: ela/dela
-- 📫 Como chegar até mim: gabybonifacio2@gmail.com
+- 🌱 Estudiando Ciencia de Datos con Python
+- 😄 Pronombres: ella/dela
+- 📫 Cómo contactarme: gabybonifacio2@gmail.com
 
 <hr>
 
@@ -35,10 +35,10 @@
 <a href="https://www.linkedin.com/in/marcia-oliveira-956994205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
-### Main skills:
+### Principales habilidades:
 
 
-### Studying in this moment:
+### Estudiando en este momento:
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/MarciaGabrielle/MarciaGabrielle/main/resources/img/github-contribution-grid-snake.svg"
@@ -46,14 +46,14 @@
 </p>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de Visitas</b></p>  
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarciaGabrielle}/count.svg" /></p> 
 <br>
 </div>
 
  ------
- Credit: [MarciaGabrielle](https://github.com/MarciaGabrielle)
- Last Edited on: 24/08/2023
+ Crédito: [MarciaGabrielle](https://github.com/MarciaGabrielle)
+ Última edición: 24/08/2023
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
