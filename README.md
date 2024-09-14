@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Wilbert...;Tengo+20+años...;Estudiante+de+C.+de+la+Computación"/>
 
- <p>- <i>Estudiante de Ciencia de la Computación apasionado por la tecnología y la innovación. Desarrollando habilidades en programación y algoritmos. Interesada en inteligencia artificial y aprendizaje automático.</i></p>
+ <p>- <i>Estudiante de Ciencia de la Computación apasionado por la tecnología y la innovación. Desarrollando habilidades en programación y algoritmos. Interesado en inteligencia artificial y aprendizaje automático.</i></p>
 
 
 ## Sobre mí persona
