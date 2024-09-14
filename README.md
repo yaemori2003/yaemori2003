@@ -2,7 +2,7 @@
 
 # Hola👋, Bienvenido a mi perfil de GitHub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Wilbert...;Tengo+20+años...;Estudiante+de+C.S"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Wilbert...;Tengo+20+años...;Estudiante+de+C.COMP"/>
 
  <p>- <i>Estudiante de Ciencia de la Computación apasionado por la tecnología y la innovación. Desarrollando habilidades en programación y algoritmos. Interesado en inteligencia artificial y aprendizaje automático.</i></p>
 
